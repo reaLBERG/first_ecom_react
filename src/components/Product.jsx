@@ -12,7 +12,7 @@ const Product = () => {
         <div className="card-body text-center">
           <h5 className="card-title" style={{ height: "2.6em", overflow: "hidden", textOverflow: "ellipsis" }}>{item.title}...</h5>
           <p className="lead">${item.price}</p>
-          <NavLink to={`/product/${item.id}`} className="btn btn-outline-dark btn-buy">
+          <NavLink to={`./product/${item.id}`} className="btn btn-outline-dark btn-buy">
             Buy Now
           </NavLink>
         </div>
