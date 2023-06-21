@@ -1,7 +1,7 @@
 {
   "name": "first_ecom_react",
   "version": "0.1.0",
-  "homepage": "https://taitake.github.io/first_ecom_react",
+  "homepage": "https://realberg.github.io/first_ecom_react",
   "private": true,
   "dependencies": {
     "@material-ui/lab": "^4.0.0-alpha.61",
