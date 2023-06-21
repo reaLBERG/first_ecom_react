@@ -6,7 +6,7 @@ const Home = () => {
     <div>
       <div className="hero">
         <div className="card text-bg-dark text-white border-0">
-          <img src="/assets/bg.jpg" className="card-img" alt="Background" style={{ height: "550px", objectFit: "cover" }} />
+          <img src="/first_ecom_react/assets/bg.jpg" className="card-img" alt="Background" style={{ height: "550px", objectFit: "cover" }} />
           <div className="card-img-overlay justify-content-center">
             <h5 className="card-title display-3 fw-bolder mb-0">NEW SEASON ARRIVALS</h5>
             <p className="card-text lead fs-2">
