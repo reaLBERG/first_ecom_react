@@ -15,13 +15,13 @@ function App() {
     <>
       <Header/>
       <Routes>
-        <Route exact path="/" element={<Home/>} />
-        <Route exact path="/products" element={<Product/>} />
-        <Route exact path="/product/:id" element={<ProductDetail/>} />
-        <Route exact path="/cart" element={<Cart/>} />
-        <Route exact path="/checkout" element={<Checkout/>} />
-        <Route exact path="/about" element={<About/>} />
-        <Route exact path="/contact" element={<Contact/>} />
+        <Route exact path="/first_ecom_react/" element={<Home/>} />
+        <Route exact path="/first_ecom_react/products" element={<Product/>} />
+        <Route exact path="/first_ecom_react/product/:id" element={<ProductDetail/>} />
+        <Route exact path="/first_ecom_react/cart" element={<Cart/>} />
+        <Route exact path="/first_ecom_react/checkout" element={<Checkout/>} />
+        <Route exact path="/first_ecom_react/about" element={<About/>} />
+        <Route exact path="/first_ecom_react/contact" element={<Contact/>} />
       </Routes>
       <Footer/>
     </>
