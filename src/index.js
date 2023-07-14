@@ -11,7 +11,7 @@ import store from './redux/store'
 import {Provider} from 'react-redux'
 
 ReactDOM.render(
-  <BrowserRouter basename="/first_ecom_react">
+  <BrowserRouter>
   <Provider store={store}>
     <App />
     </Provider>
