@@ -19,7 +19,7 @@ const Header = () => {
                                 <NavLink className="nav-link" aria-current="page" to="/first_ecom_react/">Home</NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink className="nav-link" to="/first_ecom_react/products">Product</NavLink>
+                                <NavLink className="nav-link" to="/first_ecom_react/products">Product</NavLink> 
                             </li>
                             <li className="nav-item">
                                 <NavLink className="nav-link" to="/first_ecom_react/about">About</NavLink>
